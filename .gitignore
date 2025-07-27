@@ -2,6 +2,9 @@
 /.gradle/
 /build/
 /common/build/
+/common/run/
 /fabric/.gradle/
 /fabric/build/
+/fabric/run/
 /neoforge/.gradle/
+/neoforge/run/
