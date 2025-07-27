@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd11cbf4-0761-44cc-b95b-2ed098aafa82" name="Changes" comment="BIG CLEAN">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/ores/core/Materials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/ores/core/Variants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/ores.mixins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/ores.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/ores.mixins.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +244,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753625568643</updated>
-      <workItem from="1753625569997" duration="2942000" />
+      <workItem from="1753625569997" duration="2986000" />
     </task>
     <task id="LOCAL-00001" summary="BIG CLEAN">
       <option name="closed" value="true" />
@@ -256,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753628712022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BIG CLEAN">
+      <option name="closed" value="true" />
+      <created>1753629455118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753629455118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
