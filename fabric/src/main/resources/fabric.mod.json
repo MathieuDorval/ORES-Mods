@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "example_mod",
+  "id": "ores",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Ores Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Me!"
@@ -12,18 +12,18 @@
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
   "license": "CC0-1.0",
-  "icon": "assets/example_mod/icon.png",
+  "icon": "assets/ores/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.fabric.ExampleModFabric"
+      "com.ores.fabric.ORESFabric"
     ],
     "client": [
-      "com.example.fabric.client.ExampleModFabricClient"
+      "com.ores.fabric.client.ORESFabricClient"
     ]
   },
   "mixins": [
-    "example_mod.mixins.json"
+    "ores.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.14",

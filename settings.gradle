@@ -7,7 +7,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'example_mod'
+rootProject.name = 'ores'
 
 include 'common'
 include 'fabric'
