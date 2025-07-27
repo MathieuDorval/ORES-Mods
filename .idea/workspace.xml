@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bcc9773-8cbd-49c8-8c51-fb5310c0ea60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/example_mod.common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/example_mod.common.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/example_mod.common.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/example_mod.fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/example_mod.fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/example_mod.neoforge.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/example_mod.neoforge.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neoforge/.gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/ores.common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/ores.common.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/ores.common.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/ores.fabric.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/ores.fabric.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/neoforge/ores.neoforge.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/neoforge/ores.neoforge.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gradle/.architectury-transformer/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gradle/architectury-cache/projectID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gradle/loom-cache/launch.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gradle/loom-cache/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gradle/loom-cache/remapClasspath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/ores/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/ores/ORES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/ores.mixins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/fabric.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/src/main/java/com/ores/fabric/ExampleModFabric.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/java/com/ores/fabric/ORESFabric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/classes/java/main/com/ores/neoforge/ExampleModNeoForge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/devlibs/ores-neoforge-1.0.0-dev.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/devlibs/ores-neoforge-1.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/libs/ores-neoforge-1.0.0-dev-shadow.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/libs/ores-neoforge-1.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/libs/ores-neoforge-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/loom-cache/argFiles/runClient" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/resources/main/META-INF/neoforge.mods.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/remapJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/remapSourcesJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/shadowJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/build/tmp/sourcesJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/neoforge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/src/main/java/com/ores/neoforge/ExampleModNeoForge.java" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/src/main/java/com/ores/neoforge/ORESNeoForge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoforge/src/main/resources/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/src/main/resources/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MathieuDorval"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MathieuDorval/ORES-Mods.git",
+    "accountId": "5ff68826-8c43-4ed1-a42e-f77717d1dfd1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30SWKZjrfxOHMwsdX0FYUCwpa7h" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bcc9773-8cbd-49c8-8c51-fb5310c0ea60" name="Changes" comment="" />
+      <created>1753621391273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753621391273</updated>
+      <workItem from="1753621392507" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
